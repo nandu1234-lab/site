@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(25, 26, 24);
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background-color: rgb(230, 11, 11);
+}
+p{
+    font-size:16px;
+    line-height:1.6;
+    color:#4806ef;
+}
+h1{
+    font-family:'Arial',sans-serif;
+    font-size:36px;
+    text-align:center;
+    color:red;
+}
+div{
+    padding:15%;
+    margin:20px;
+    background-color: rgb(235, 121, 15);
+}
+p{
+    border:10px red solid;
+    background-color: red;
+    color: black;
+}
+#header
+{
+    background-color:rgb(96, 230, 7);
+}
+button{
+    background-color: #ff5507;
+}
+li{
+    color: #ff5507;
+}
+h1{
+    color: rgb(226, 88, 8);
+}
+a{
+    color: #ff5507;
+}
+input{
+    background-color: #ff5507;
+}
